@@ -25,6 +25,8 @@
 
 ![img3](https://github.com/PhartomX/netology_rabbitMQ/blob/main/img/img3.png)
 
+![img4](https://github.com/PhartomX/netology_rabbitMQ/blob/main/img/img4.png)
+
 ---
 
 ### Задание 3. Подготовка HA кластера
