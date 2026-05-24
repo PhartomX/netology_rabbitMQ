@@ -242,7 +242,7 @@ Flag: virtual_host_metadata, state: enabled
 
 `Ссылка на playbook:`
 
-[playbook](https://github.com/PhartomX/netology_rabbitMQ/blob/main/playbook.yml)
+[rabbitmq-playbook](https://github.com/PhartomX/netology_rabbitMQ/blob/main/rabbitmq-playbook.yml)
 
 
 ---
