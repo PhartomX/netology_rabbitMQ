@@ -221,6 +221,7 @@ Flag: virtual_host_metadata, state: enabled
 ![img9](https://github.com/PhartomX/netology_rabbitMQ/blob/main/img/img9.png)
 
 `Проверка работоспособности кластера.`
+
 `Запускаем скрипт для отправки сообщений:`
 
 ![img10](https://github.com/PhartomX/netology_rabbitMQ/blob/main/img/img10.png)
